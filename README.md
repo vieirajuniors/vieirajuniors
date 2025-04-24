@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Júnior Vieira "Juninho" 😁
+## Bem-vindo(a) ao perfil do Jorge Júnior "Juninho" 😁
 
  <div>
    <a href="https://github.com/vieirajuniors">
