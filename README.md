@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao meu perfil.
-## Prazer sou o Jorge Júnior, mais conhecido como "Juninho". 😁
+## Prazer sou o Jorge Júnior. Bem-vindo(a) ao meu perfil.
 
  <div>
    <a href="https://github.com/vieirajuniors">
