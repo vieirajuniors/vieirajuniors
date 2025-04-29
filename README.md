@@ -1,4 +1,4 @@
-## Prazer sou o Jorge Júnior. Bem-vindo(a) ao meu perfil.
+## Bem-vindo(a) ao perfil do Júnior Vieira 😁
 
  <div>
    <a href="https://github.com/vieirajuniors">
@@ -14,10 +14,10 @@
  
 <br>
  
-### Surge aqui um futuro webdev!
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/vieirajuniors" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/vieirajuniors" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vieirajuniors@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vieirajuniors" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
